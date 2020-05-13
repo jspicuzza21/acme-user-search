@@ -1,0 +1,93 @@
+
+*{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    color: darkred;
+    margin-bottom: 100px;
+}
+
+img{
+    width: 20%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+input{
+    width: 65vw;
+    text-align: center;
+    height: 40px;
+}
+
+.search-container{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 10px;
+    padding-top: 15px;
+}
+
+h6{
+    text-align: left;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.searchTermResults{
+    width: 65%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+}
+
+.btn-primary{
+    margin-right:10px;
+}
+
+footer{
+    padding-top: 200px;
+    color: darkred;
+}
+
+button{
+    margin-top:10px;
+    width: 100px;
+    margin: 10px;
+}
+
+.table-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+thead{
+    background-color: darkred;
+    color: white;
+}
+
+table{
+    
+    padding: 20px;
+    border-collapse: collapse;
+    border: black 1px solid;
+    width:65%;
+}
+
+tr {
+    border-bottom: black solid 1px;
+}
